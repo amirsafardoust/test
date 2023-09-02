@@ -1,3 +1,2 @@
-This is a test!
-OK!
 OTP
+From .NET 6 to .NET 7
